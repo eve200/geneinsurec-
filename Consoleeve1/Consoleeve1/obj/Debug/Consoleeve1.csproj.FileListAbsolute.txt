@@ -1,0 +1,7 @@
+C:\Users\Charles\AppData\Local\Temporary Projects\Consoleeve1\bin\Debug\Consoleeve1.exe.config
+D:\evelyn project\Consoleeve1\Consoleeve1\bin\Debug\Consoleeve1.exe.config
+D:\evelyn project\Consoleeve1\Consoleeve1\bin\Debug\Consoleeve1.exe
+D:\evelyn project\Consoleeve1\Consoleeve1\bin\Debug\Consoleeve1.pdb
+D:\evelyn project\Consoleeve1\Consoleeve1\obj\Debug\Consoleeve1.csprojResolveAssemblyReference.cache
+D:\evelyn project\Consoleeve1\Consoleeve1\obj\Debug\Consoleeve1.exe
+D:\evelyn project\Consoleeve1\Consoleeve1\obj\Debug\Consoleeve1.pdb
